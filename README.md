@@ -9,7 +9,7 @@ The aim is to strengthen problem-solving skills, build strong fundamentals, and 
 - Searching & Sorting
 ---
 
-## 🔹 Languages Used
+## 🔹 Language Used
 - Java
   
 ---
@@ -25,3 +25,14 @@ The aim is to strengthen problem-solving skills, build strong fundamentals, and 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+---
+
+## 🔹 Contributing
+If you'd like to improve or add more solutions, feel free to fork this repository and create a pull request. 🚀
+
+---
+
+## 🔹 License
+This project is open-source and available under the **MIT License**.
+
